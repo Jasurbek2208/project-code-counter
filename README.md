@@ -1,0 +1,1 @@
+Counts the number of characters written in the files in the project. To do this, you need to type the local path of the project and then press start. The code also has a list of file extensions that should be ignored or counted.You can also add your own options to the list. And it also counts style files separately.
